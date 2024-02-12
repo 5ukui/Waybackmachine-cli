@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/5ukui/waybackmachine-cli">
-    <img src="https://i.ibb.co/sgsvSvH/wayback.png" alt="Logo" width="380" height="140">
+    <img src="build/main/wayback.png" alt="Logo" width="380" height="140">
   </a>
   
   <h3 align="center">waybackmachine-cli</h3>
