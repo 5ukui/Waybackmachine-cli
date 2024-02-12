@@ -40,7 +40,7 @@ Options:
   --help             Show this message and exit.
 ```
 
-## Example
+## Usage Example
 • Example Command:
 ```
 wayback.exe --url justice.gov  --date 20220219 --time 214431 --find Man,man,"Conspiracy to",WHY --download
