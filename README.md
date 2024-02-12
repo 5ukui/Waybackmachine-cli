@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/5ukui/waybackmachine-cli">
+  <a href="https://archive.org/web/">
     <img src="build/main/wayback.png" alt="Logo" width="380" height="140">
   </a>
   
